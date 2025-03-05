@@ -3,8 +3,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define WIDTH 30
-#define HEIGHT 20
+#define WIDTH 80
+#define HEIGHT 23
 #define MAX_LENGTH 100
 
 // Snake structure
